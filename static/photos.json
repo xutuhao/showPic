@@ -1,0 +1,213 @@
+[
+  {
+  "id":"1",
+  "url":"static/assets/相框照片1_1.png",
+  "top": "10px",
+  "left": "20px",
+  "belongto": "desk",
+  "width": "300px",
+  "height": "200px",
+  "zindex": "1"
+},
+  {
+    "id":"2",
+    "url":"static/assets/相框照片1_2.png",
+    "top": "30px",
+    "left": "425px",
+    "belongto": "desk",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "2"
+  },
+  {
+    "id":"3",
+    "url":"static/assets/相框照片1_4.png",
+    "top": "25px",
+    "left": "190px",
+    "belongto": "desk",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "3"
+  },
+  {
+    "id":"4",
+    "url":"static/assets/相框照片1_6.png",
+    "top": "5px",
+    "left": "260px",
+    "belongto": "desk",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "4"
+  },
+  {
+    "id":"5",
+    "url":"static/assets/相框照片1_1.png",
+    "top": "80px",
+    "left": "70px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "5"
+  },
+  {
+    "id":"6",
+    "url":"static/assets/相框照片1_2.png",
+    "top": "85px",
+    "left": "125px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "6"
+  },
+  {
+    "id":"7",
+    "url":"static/assets/相框照片1_3.png",
+    "top": "70px",
+    "left": "195px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "7"
+  },
+  {
+    "id":"8",
+    "url":"static/assets/相框照片1_4.png",
+    "top": "95px",
+    "left": "275px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "8"
+  },
+  {
+    "id":"9",
+    "url":"static/assets/相框照片1_5.png",
+    "top": "70px",
+    "left": "350px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "9"
+  },
+  {
+    "id":"10",
+    "url":"static/assets/相框照片1_6.png",
+    "top": "110px",
+    "left": "420px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "10"
+  },
+  {
+    "id":"11",
+    "url":"static/assets/相框照片2_1.png",
+    "top": "130px",
+    "left": "40px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "11"
+  },
+  {
+    "id":"12",
+    "url":"static/assets/相框照片2_2.png",
+    "top": "145px",
+    "left": "135px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "12"
+  },
+  {
+    "id":"13",
+    "url":"static/assets/相框照片2_3.png",
+    "top": "150px",
+    "left": "210px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "13"
+  },
+  {
+    "id":"14",
+    "url":"static/assets/相框照片2_4.png",
+    "top": "160px",
+    "left": "275px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "14"
+  },
+  {
+    "id":"15",
+    "url":"static/assets/相框照片2_5.png",
+    "top": "170px",
+    "left": "360px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "15"
+  },
+  {
+    "id":"16",
+    "url":"static/assets/相框照片2_6.png",
+    "top": "155px",
+    "left": "440px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "16"
+  },
+  {
+    "id":"17",
+    "url":"static/assets/相框照片3_1.png",
+    "top": "210px",
+    "left": "60px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "17"
+  },
+  {
+    "id":"18",
+    "url":"static/assets/相框照片3_2.png",
+    "top": "220px",
+    "left": "140px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "18"
+  },
+  {
+    "id":"19",
+    "url":"static/assets/相框照片3_3.png",
+    "top": "230px",
+    "left": "240px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "19"
+  },
+  {
+    "id":"20",
+    "url":"static/assets/相框照片3_4.png",
+    "top": "240px",
+    "left": "300px",
+    "belongto": "wall",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "20"
+  },
+  {
+    "id":"21",
+    "url":"static/assets/桌面.jpg",
+    "top": "0",
+    "left": "0",
+    "belongto": "album",
+    "width": "300px",
+    "height": "200px",
+    "zindex": "21"
+  }
+
+]
